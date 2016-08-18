@@ -66,4 +66,17 @@ margin-top: 0;
 	margin-left: 0;
 	}
 }
+
+table{
+	border:#6495ED 2px solid;
+	border-collapse:collapse;		
+}
+td,th, tr{
+	border:#6495ED 2px solid;
+}
+.tabla{	
+	margin-right:5px;
+	margin-left:5px;	
+}
+
 /* ####### Acá va su código ####### */
